@@ -7,7 +7,7 @@ width="32%" >
 width="32%" > 
   <h3 align="center">
   <a href="https://git.io/typing-svg">
-      <img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=100&color=99FF67&random=false&width=435&lines=Welcome,+to+Matrix!+👋;I'm+Adam+West+👹;Nice+to+meet+you!🌊&center=true&size=20" alt="Typing SVG" />
+      <img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=100&color=99FF67&random=false&width=435&lines=Welcome,+to+Matrix!+👋;I'm+Dan+Cooper+👹;Nice+to+meet+you!🌊&center=true&size=20" alt="Typing SVG" />
   </a>
 </h3>
 </h2>
